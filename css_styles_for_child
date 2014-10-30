@@ -92,3 +92,25 @@ ACTUALLY, I see that I had set it 20 ages ago. *shrug*
 padding: 5px;
 }
 
+/*Adding some img. effect from this awesome page 
+
+ http://designshack.net/articles/css/joshuajohnson-2/
+
+*/
+
+/*GROW*/
+.project_page_grow img {
+  height: 150px;
+  width: 150px;
+ 
+  -webkit-transition: all 1s ease;
+     -moz-transition: all 1s ease;
+       -o-transition: all 1s ease;
+      -ms-transition: all 1s ease;
+          transition: all 1s ease;
+}
+ 
+.project_page_grow img:hover {
+  width: 200px;
+  height: 200px;
+}
