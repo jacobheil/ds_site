@@ -10,7 +10,10 @@ LiRA takes as its model a similar project by Kenyon professor Ric Shefield, the 
 
 To my mind, one of the great foundational principles of The Community Within, a principle exemplified by both LiRA and the Black History Archives, is that the research undertaken for the project is presented in a material exhibition within the community itself, in this case the public library, even as it is disseminated and preserved in a digital medium. As Roman-Odio framed it in her remarks, the community members are at the heart of such projects, and the narratives that are revealed and interwoven by the project belong to them. 
 
-Projects like LiRA are exemplary, as well, of the ways in which liberal arts colleges might interact with local communities in meaningful ways. Furthermore, as a pedagogical enterprise, such projects ask students to go beyond the simple reporting of archival material -- of known histories -- and asks them instead to curate an alternative archive of heretofore unsynthesized material. 
+Projects like LiRA are exemplary, as well, of the ways in which our students might interact with local communities in meaningful ways. As pedagogical enterprises, such projects ask students to go beyond the simple reporting of archival material -- of known histories -- and asks them instead to curate an alternative archive of heretofore unsynthesized material. 
 
-Ohio Five Digital Scholarship is grateful to have been able to play a part in LiRA and the Knox County Black Archive, but both have come about with a generous support of a number of people and agencies. The LiRA exhibit provides an extensive list of credits and acknowledgement, but I will take this opportunity to underline the contributions of [Jenna Nolt](https://www.linkedin.com/in/jenna-nolt-64135829), Kenyon's Digital Initiatives Librarian. 
+[Ohio Five Digital Scholarship](http://digitalscholarship.ohio5.org/) is grateful to have been able to play a part in LiRA and the Knox County Black Archive, but both have come about with a generous support of a number of people and agencies. The LiRA exhibit provides an extensive list of credits and acknowledgement, but I will take this opportunity to underline the contributions of [Jenna Nolt](https://www.linkedin.com/in/jenna-nolt-64135829), Kenyon's Digital Initiatives Librarian. 
+
+What are some of the ways in which you are doing public and/or digital history with your liberal arts students? Let us know on Facebook or post a comment a below. 
+
 
