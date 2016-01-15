@@ -1,4 +1,4 @@
-![EdTech Winter WOrkshop](http://digitalscholarship.ohio5.org/wp-content/uploads/2015/04/2016-01-13-10.51.24-resized.jpeg "EdTech Winter Workshop Crowd")
+![EdTech Winter Workshop](http://digitalscholarship.ohio5.org/wp-content/uploads/2015/04/2016-01-13-10.51.24-resized.jpeg "EdTech Winter Workshop Crowd")
 
 Oberlin's Mudd Library recently hosted the EdTech Winter Workshop for professional staff, organized by Albert Borroni and the Oberlin Center for Technology Enhanced Teaching [(OCTET)](https://octet.oberlin.edu/octet/). Thirty or so members of the Oberlin community attended, representing divisions from around the campus: the Allen Memorial Art Museum (AMAM), the Conservatory, the Audio Visual team, Cinema Studies, the arts, Center for Information Technology, and the Library.
 
