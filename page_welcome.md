@@ -1,6 +1,16 @@
 ####We are in another changing season for this iteration of the Ohio Five's Digital Scholarship initiative, generously funded by the Andrew W. Mellon Foundation.####
 
-#####In the first year under this grant, Ohio Five Digital Scholarship focused on building relationships and then establishing and testing the workflows under which projects would grow. In its second year, there was a shift to active project development and, where possible, plugging the efforts of #oh5ds into the larger landscapes of DS in the Liberal Arts, Digital Humanities, and Digital Scholarship writ large. As we reached a halfway point we also began to look toward the future.#####
+#####In the first year under this grant, Ohio Five Digital Scholarship focused on building relationships and then establishing and testing the workflows under which projects would grow. In its second year, there was a shift to active project development and, where possible, plugging the efforts of #oh5ds into the larger landscapes of DS in the Liberal Arts, Digital Humanities, and Digital Scholarship writ large. As we reached a halfway point we also began to look toward the future.
+
+And so we arrive here in this moment. While we will continue to [encourage interested faculty to let us know](http://digitalscholarship.ohio5.org/initial-interest-form/) that they have an idea, and while we will continue to build up our [expanding managerie of projects](http://digitalscholarship.ohio5.org/oh5_projects/), we also want to cultivate a sense of ***consortial identity*** for our digital scholarship community. A chief concern is that we don't always know what's happening around the Ohio Five, yet we want to learn from and build upon our colleagues' great work. Innovative digital pedagogies can be siloed in their own campus contexts, much less within a consortium separated by hundreds of miles; as we move forward in the near term we want to be deliberate about making connections and, importantly, helping others make connections with one another. 
+
+So let's have our conversations out loud and in public. Have an event? Announce it on the [OH5 Digital Scholarship listserv](https://groups.google.com/forum/#!forum/oh5digitalscholarship). Post it on [the Facebook page](https://www.facebook.com/ohiofiveDS/). With these resources (and a resurgent [8-bits](http://us9.campaign-archive2.com/home/?u=70ff65e31bcfd9306a77d2327&id=fc1185fb48)) you can stay up to date or have a wider conversation about how this work is getting done locally, consortially, nationally, and internationally. 
+
+Again: Welcome. #####
+
+~JAH
+
+
 
 
 ###DEPRECATED TEXT####
