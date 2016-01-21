@@ -10,13 +10,3 @@
 #####Again: Welcome. 
 
 ~JAH
-
-
-
-
-###DEPRECATED TEXT####
-Entering the second year of the Ohio Five's Digital Scholarship Initiative, we have a number of projects under way ranging from curricular collections for very local classroom use to large-scale, multi-institutional collaborations. We're happy to have these underway and are happily accepting new submissions of ideas via our Initial Interest Form. Once you've answered those four easy questions, Jacob Heil, the Ohio Five's Mellon Digital Scholar, will put together a small planning team and schedule a real-life project meeting (because white boards and conferences rooms are tools for digital project development too!). This meeting will be a springboard into the development of your short proposal--see the guidelines here--which will pass through a local committee on its way to turning into the project plan for your great idea!
-
-We're dedicated to building project teams and finding collaborators in all of the places that we can: in libraries, for starters, but also in educational technology and info tech offices, in the halls of different scholarly disciplines, and across institutions. We know, though, that successful collaborations grow naturally from chance (and not-so-chance) interactions. In our second year, then, we're focused on ensuring that we know of one another's existence. As a consortium that is spread over hundreds of square miles, we know this is a particular kind of challenge, but we'll be seeking ways to spread news of consortial projects and to create opportunities for those productive, human (even if virtual) interactions.
-
-Check back in and poke around from time to time. You'll be able to keep track of what's new <a title="Our Latest Posts" href="http://digitalscholarship.ohio5.org/blog/">on our blog</a>, and you'll (soon) be able to learn about our consortial projects on a projects page (set to launch late October 2014). If you'd like to be kept in the know, subscribe to Eight Bits, our newsletter, set to drop on the first of every other month starting (belatedly) in October.
