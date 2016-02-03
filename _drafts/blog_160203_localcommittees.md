@@ -1,0 +1,11 @@
+### Local Committee Makeup.
+
+A breakdown of who (in terms of rank) has served on the local committees at the various campuses. Maybe some thoughts from those who put them together as to what went into that selection process and why they have the committee? 
+
+I wonder if it's because the library is skittish at dictating anything without the permission of the powers that be? That's the cynic's version. The version I think I actually believe is that the libraries want to be the academic center, they want to be a democratic space and entity, so (like a democratic governing body) they seek representatives from all areas of their constituencies to represent the voice of the campus. It seems inefficient and it's certainly more dificult than having, say, the Ohio Five library directors dole out the money. But it involves the entire campus so that's somthing. 
+
+Pairing this with a reading of our local team devekopment: it's all still very siloed and campus specific. This may contribute to a sense of being siloed, but it's really necesary that (a) we accurately represent local culture and (b) that we stick within the bounds of what's possible locally. 
+
+I think that this latter point hamstrings us, actually. If we can change team construction to include specialists from outside of a given campus -- say, a TEI expert or a text mining expert -- then we could have a better sense of the way in which consortial digital scholarship can work. This happens now, it's just that I'm at the center; I'm the non-local on the team. In-person meetings are important -- it's why I've wanted to be there for these -- but we could Skype-in one or two "consultants" at the design phase of the project and then rely on them for some development as needed further along in production. The local teams, in part, kept me from bothering folks who don't necessarily need to be bothered on a given topic. This was before I knew people, though. I think that now we cold impose a little more. Now that the project development workflow is established and we know that we're all working on it, maybe now's the time to figure out who our specialists are and to call on them. 
+
+I don't know that we could have reached outside of the campus (silo) walls until we got to this space. IDK though. 
