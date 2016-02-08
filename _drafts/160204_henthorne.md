@@ -1,7 +1,22 @@
-160204_henthorne.md
+## Tess's Presentation for IS
 
-### Tess's Presentation for IS
+![Tess Henthorne's Presentation](http://digitalscholarship.ohio5.org/wp-content/uploads/2015/04/blog.160207.henthorne.jpg "Tess Presenting")
 
+As a followup to [my last post](http://digitalscholarship.ohio5.org/2016/02/why-we-tei-2/), which was essentially a reposting of an email that I write to a small team about why we might use the [TEI Guidelines](http://www.tei-c.org/Guidelines/) for a given text-based digital project, I'll post a few observations that stem from Tess actually having briefly presented her Independent Study (IS)to a few faculty and students from her department. First, though, I'll say that she did a wonderful job articulating just *why* she wants to encode a text as part of her IS rather than just transcribe it. In short (and I hope I'm doing justice to her own thoughts here), it enriches her text -- Glady Fornel's *Montel* -- and opens its potential for future scholarship, her own and others'. I'll also note as an aside how it's clear that some -- maybe most -- of the people who are thining about Tess's IS as a "digital IS" are thinking in terms of visible, human-readable results. That is to say that folks are thinking about [Milton's Reading Room](https://www.dartmouth.edu/~milton/reading_room/contents/text.shtml) (e.g.) or a searchable database, neither of which are necessarily Tess's goal. It will be a challenge for us -- read: Tess -- to navigate the distances between the different conceptualizations of a "digital project." I'd be grateful to hear how other scholars who are doing the heavy (and often inglorious) lifting of text-encoding make these distinctions to various constituencies. How have *you* bridged this language barrier? 
+
+But I digress. 
+
+Tess's presentation gave me an opportunity to reflect on the importance of projects like hers that do not fall under the direct jurisdiction of our Digital Scholarship grant. If one of the goals of the Ohio Five grant and others like it is to use [projects](http://digitalscholarship.ohio5.org/oh5_projects/) as the springboards for building the larger systems that will create and foster sustainable digital scholarship, then Tess's project -- probably ***because it doesn't conform to our scripted workflows*** -- gives us an opportunity to test our systems in the wild. It is a chance to make sure that we are building up an environment that's robust enough to foster faculty and student (and staff, ideally) digital scholarship. So, how has Tess's project kept us honest in this way? 
+
+- It **builds out from the technical and scholarly concerns of the more directly grant-related projects.** tei/ text transcription.
+
+- **It amplifies the conversation about digital scholarship.** opp to reach new audiences, think about alternative frames of reference. 
+
+- **It broadens the audience for that converation.** Students, faculty advisors working with those students. Not unrelated to the prior point. 
+
+- It **tellingly resonates with issues of evaluation of digital scholarship.** 
+
+#### OLD TEXT ####
 There are a number of possible stories here, from our perspective. It's not the IS itself -- its arguments, its readings -- it's about the process for us. And how is this process pertinent to the grant even though it's not directly funded by the grant? 
 
 That's the thing, isn't it? This is the unexpected benefit of the work that we're doing on the grant. If part of the purpose of the grant (and I think it *is* part of the purpose) is to build up the culture, then working directly with a student on a research project is a way to do that. Students' interests spark conversation on campus, they're why we're here, so if they want to work on digital projects then we have to start having that conversation and thinking about how that works into our institutions' structures. Also, because I can't devote a ton of my time to the project (I have projects that have to take priority) I can only advise, and so we've had to figure out how to do the project -- how to learn TEI together -- on the fly, but collaboratively.
