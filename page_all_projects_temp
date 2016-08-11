@@ -44,7 +44,7 @@
       <h3 class="text-center">Mapping the Arts of the Oceanic World</h3>
       <p class="text-center">Joanna Grabski</p>
       <p class="text-center">A digital exhibition exploring the forms and functions of Oceania's expressive culture. The exhibition modules focusing on Polynesia and Melanesia are researched and curated by students in the course, Arts of Oceania.</p>
-        <a class="btn btn-small aligncenter" href="http://www.mappingoceaniadenison.org/" target=_blank >External Page</a>
+        <a class="btn btn-small aligncenter" href="http://digitalscholarship.ohio5.org/mapping-the-arts-of-the-oceanic-world/" target=_blank >Project Page</a>
   
     </div>
 
@@ -161,7 +161,6 @@
       <p class="text-center">Carol Lasser</p>
       <p class="text-center">Students create digital projects in American women’s history drawing on manuscripts from the Oberlin College Archives.</p>
       <a class="btn btn-small aligncenter" href="http://americanfeminisms.org/" target=_blank >External Site</a>
-        
     </div>
 
   </div>
@@ -280,7 +279,6 @@
       <p class="text-center">Will Riall</p>
       <p class="text-center">Computer Science priject to implement and improve workflows from the Early Modern OCR Project (<a href="http://emop.tamu.edu" target="_blnak">eMOP</a>) for use on Seventeenth-Century French Text. A compliment to Scudéry.</p>
         <a class="btn btn-small aligncenter" href="http://digitalscholarship.ohio5.org/improving-open-source-ocr-of-historical-books/">Project Page</a>
-        <a class="btn btn-small aligncenter" href="https://github.com/wilfredrial/ocr-post-processing">See this project's code on GitHub!</a>
     </div>
     
     <div class="span3" style="padding: 20px;">
@@ -306,7 +304,7 @@
       <p class="text-center">James Bonk</p>
       <p class="text-center">Shelley Judge</p>
       <p class="text-center">An easy-to-use, web-based mapping tool that uses Google Sheets for input. No installations required (probably).</p>
-       <a class="btn btn-small aligncenter" href="http://zachphillipsgary.github.io/ng-timemap-improvements-/">See this project's code on GitHub!</a>
+       <a class="btn btn-small aligncenter" href="http://zachphillipsgary.github.io/ng-timemap-improvements-/">External Page</a>
     </div>
     
   </div>
@@ -333,8 +331,7 @@
         <p class="text-center">Brenda Meese</p>
         <p class="text-center">An Omeka project in which students curate exhibits about eras in sport for women at the College of Wooster, selecting images from the larger digital collection </p>
          <a class="btn btn-small aligncenter" href="http://www.ohio5.org/woosterwomeninsport/">External Site</a>
-          <a class="btn btn-small aligncenter" href="https://github.com/ZachPhillipsGary/woosterwomeninsports">See this project's code on GitHub!</a>
-  </a>
+<a class="btn btn-small aligncenter" href="https://github.com/ZachPhillipsGary/woosterwomeninsports">See this project's code on GitHub!</a>
       </div> 
 
      </div>
